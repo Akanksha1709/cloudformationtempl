@@ -60,7 +60,7 @@
                 "Fn::Join": [
                     "",
                     [
-                        "https://www.wix.com/dashboard/2a0a120b-45ce-42e8-83c7-570e05cd58e5/blog/",
+                        "https://www.wix.com/dashboard/2a0a120b-45ce-42e8-83c7-570e05cd58e5/blog",
                         {
                             "Fn::GetAtt": [
                                 "S3Bucket",
